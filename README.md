@@ -18,3 +18,4 @@ The repository also includes a sample loan portfolio (loan_port.csv) for use in 
 Usage
 To use this repository, clone it to your local machine and open the desired notebook (finalcode_german.ipynb or finalcode_ghana.ipynb) in a Jupyter environment. Make sure to have the necessary dependencies installed before running the code.
 
+https://github.com/madoc-q/ghana-loan-default-prediction.git
